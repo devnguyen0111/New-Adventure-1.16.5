@@ -1,0 +1,49 @@
+
+[Tools]
+	#If TRUE, Bronze Tools are enabled.
+	"Bronze Tools" = true
+	#If TRUE, Electrum Tools are enabled.
+	"Electrum Tools" = true
+	#If TRUE, Invar Tools are enabled.
+	"Invar Tools" = true
+	#If TRUE, Iron Tools are enabled.
+	"Iron Tools" = true
+	#If TRUE, Lead Tools are enabled.
+	"Lead Tools" = true
+	#If TRUE, Diamond Tools are enabled.
+	"Diamond Tools" = true
+	#If TRUE, Netherite Tools are enabled.
+	"Netherite Tools" = true
+	#If TRUE, Silver Tools are enabled.
+	"Silver Tools" = true
+	#If TRUE, Nickel Tools are enabled.
+	"Nickel Tools" = true
+	#If TRUE, Copper Tools are enabled.
+	"Copper Tools" = true
+	#If TRUE, Constantan Tools are enabled.
+	"Constantan Tools" = true
+	#If TRUE, Tin Tools are enabled.
+	"Tin Tools" = true
+	#If TRUE, Gold Tools are enabled.
+	"Gold Tools" = true
+
+[Armor]
+	#If TRUE, Electrum Armor is enabled.
+	"Electrum Armor" = true
+	#If TRUE, Silver Armor is enabled.
+	"Silver Armor" = true
+	#If TRUE, Nickel Armor is enabled.
+	"Nickel Armor" = true
+	#If TRUE, Copper Armor is enabled.
+	"Copper Armor" = true
+	#If TRUE, Bronze Armor is enabled.
+	"Bronze Armor" = true
+	#If TRUE, Constantan Armor is enabled.
+	"Constantan Armor" = true
+	#If TRUE, Lead Armor is enabled.
+	"Lead Armor" = true
+	#If TRUE, Tin Armor is enabled.
+	"Tin Armor" = true
+	#If TRUE, Invar Armor is enabled.
+	"Invar Armor" = true
+
