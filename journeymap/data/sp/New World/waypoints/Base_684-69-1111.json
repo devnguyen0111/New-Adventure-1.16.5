@@ -1,0 +1,22 @@
+{
+  "id": "Base_684-69-1111",
+  "name": "Base",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10814463-waypoint-icon.png",
+  "x": 684,
+  "y": 69,
+  "z": 1111,
+  "r": 90,
+  "g": 252,
+  "b": 1,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

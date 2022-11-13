@@ -1,0 +1,22 @@
+{
+  "id": "Digging_582-64-869",
+  "name": "Digging",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16646873-waypoint-icon.png",
+  "x": 582,
+  "y": 64,
+  "z": 869,
+  "r": 1,
+  "g": 253,
+  "b": 39,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

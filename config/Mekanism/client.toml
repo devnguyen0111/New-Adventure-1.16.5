@@ -90,8 +90,8 @@
 				y = 2147483647
 
 			[client.gui.window.upgrade]
-				x = 2147483647
-				y = 2147483647
+				x = -200
+				y = 13
 
 			[client.gui.window.crafting0]
 				x = 2147483647
@@ -114,8 +114,8 @@
 				y = 2147483647
 
 			[client.gui.window.transporterConfig]
-				x = 2147483647
-				y = 2147483647
+				x = 10
+				y = 15
 
 			[client.gui.window.skinSelect]
 				x = 2147483647
