@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2022-11-12 20:02:39 +0700"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/red_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2022-11-12 11:26:48 +0700"
@@ -915,6 +921,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
     "criteria": {
       "has_the_recipe": "2022-11-12 17:17:58 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/reprocessor/collector": {
+    "criteria": {
+      "has_item2": "2022-11-12 20:34:31 +0700"
     },
     "done": true
   },
@@ -2453,6 +2465,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2022-11-12 20:34:31 +0700"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2022-11-11 22:34:39 +0700"
@@ -3604,6 +3622,7 @@
       "minecraft:skeleton": "2022-11-12 08:07:28 +0700",
       "minecraft:spider": "2022-11-11 21:45:27 +0700",
       "minecraft:creeper": "2022-11-11 22:26:27 +0700",
+      "minecraft:slime": "2022-11-12 20:02:19 +0700",
       "minecraft:zombie": "2022-11-11 21:45:10 +0700",
       "minecraft:drowned": "2022-11-11 21:39:47 +0700"
     },
@@ -4332,6 +4351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-11-12 20:02:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-11-11 21:31:57 +0700"
@@ -4802,6 +4827,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-11-12 20:11:02 +0700",
       "cooked_mutton": "2022-11-12 10:31:09 +0700",
       "apple": "2022-11-11 21:37:41 +0700",
       "bread": "2022-11-11 21:37:32 +0700",

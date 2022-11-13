@@ -35,7 +35,7 @@
 
 		[general.wandsettings.general]
 			#Set this to false if you don't want the durability bar for wands using RF
-			showDurabilityBarForRF = false
+			showDurabilityBarForRF = true
 			#Set the type of durability consumption for all wands
 			#Allowed Values: NONE, DURABILITY, XP, EASY_RF, NORMAL_RF, HARD_RF
 			wandUsage = "NORMAL_RF"
