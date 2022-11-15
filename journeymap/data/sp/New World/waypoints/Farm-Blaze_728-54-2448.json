@@ -1,0 +1,22 @@
+{
+  "id": "Farm-Blaze_728-54-2448",
+  "name": "Farm Blaze",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10567236-waypoint-icon.png",
+  "x": 728,
+  "y": 54,
+  "z": -2448,
+  "r": 94,
+  "g": 193,
+  "b": 188,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Nether-Fortres_680-49-2520",
+  "name": "Nether Fortres",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--196576-waypoint-icon.png",
+  "x": 680,
+  "y": 49,
+  "z": -2520,
+  "r": 253,
+  "g": 0,
+  "b": 32,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
