@@ -7580,6 +7580,12 @@
     },
     "done": true
   },
+  "wirelesschargers:no_more_batteries": {
+    "criteria": {
+      "has_charger": "2022-11-20 16:28:41 +0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2022-11-11 23:06:17 +0700"
